@@ -139,7 +139,7 @@ var penelope = function() {
 	/*Client carousel start*/
 	$('#client_sec .client-carousel').owlCarousel({
 		loop: true,
-		margin: 15,
+		margin: 40,
 		nav: false,
 		dots: false,
 		responsive: {
@@ -163,6 +163,13 @@ var penelope = function() {
 			},
 			1600: {
 				items: 5
+			}
+			,
+			1600: {
+				items: 6
+			},
+			1600: {
+				items: 7
 			}
 		}
 	});

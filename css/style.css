@@ -529,7 +529,7 @@ nav.navbar.navbar-default.vertical-nav {
         background: none;
         border: none; }
       nav.navbar.navbar-default.vertical-nav li a:before {
-        background-color: #fff;
+        background-color: black;
         border-radius: 50%;
         height: 50px;
         top: -21px !important;
@@ -698,7 +698,7 @@ a.goto-social, a.goto-social:hover {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-weight: 500;
-    background: #fff none repeat scroll 0 0;
+    background: black none repeat scroll 0 0;
     bottom: 0;
     color: black;
     height: 65px;
@@ -739,7 +739,7 @@ a.goto-social, a.goto-social:hover {
       transform: translateY(0); }
 
 .lg-sub-html h6 {
-  color: #fff;
+  color: black;
   margin-bottom: 0; }
 
 /********Education Sec CSS********/
