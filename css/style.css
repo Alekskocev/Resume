@@ -698,7 +698,7 @@ a.goto-social, a.goto-social:hover {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-weight: 500;
-    background: black none repeat scroll 0 0;
+    background: #fff none repeat scroll 0 0;
     bottom: 0;
     color: black;
     height: 65px;
