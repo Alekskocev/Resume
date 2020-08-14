@@ -626,7 +626,7 @@ a.goto-social, a.goto-social:hover {
     float: left;
     width: 100%; }
     .skills-wrap .progress-bar-graph .bar-wrap strong {
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 500;
       font-family: "Hind", sans-serif;
       color: #fff;
@@ -655,7 +655,7 @@ a.goto-social, a.goto-social:hover {
       top: -6px;
       width: 15px; }
   .skills-wrap .progress-cat {
-    font-size: 12px;
+    font-size: 14px;
     font-family: "Hind", sans-serif;
     font-weight: 600;
     color: #fff;
