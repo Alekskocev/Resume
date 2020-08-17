@@ -125,7 +125,7 @@ var penelope = function() {
 	
 	/*Typed js start*/
 	$("#typed").typed({
-		strings: ["^2100&nbsp;I am Aleks.<br/>A Creative Content Producer.<br/> Living in Los Angeles, CA."],
+		strings: ["^2100&nbsp;I'm Aleks,<br/>A Creative Content Producer.<br/> Living in Los Angeles, CA."],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
