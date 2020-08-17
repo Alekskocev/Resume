@@ -529,7 +529,7 @@ nav.navbar.navbar-default.vertical-nav {
         background: none;
         border: none; }
       nav.navbar.navbar-default.vertical-nav li a:before {
-        background-color: #fff;
+        background-color: black;
         border-radius: 50%;
         height: 50px;
         top: -21px !important;
@@ -626,7 +626,7 @@ a.goto-social, a.goto-social:hover {
     float: left;
     width: 100%; }
     .skills-wrap .progress-bar-graph .bar-wrap strong {
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 500;
       font-family: "Hind", sans-serif;
       color: #fff;
@@ -655,7 +655,7 @@ a.goto-social, a.goto-social:hover {
       top: -6px;
       width: 15px; }
   .skills-wrap .progress-cat {
-    font-size: 12px;
+    font-size: 14px;
     font-family: "Hind", sans-serif;
     font-weight: 600;
     color: #fff;
@@ -739,7 +739,7 @@ a.goto-social, a.goto-social:hover {
       transform: translateY(0); }
 
 .lg-sub-html h6 {
-  color: #fff;
+  color: black;
   margin-bottom: 0; }
 
 /********Education Sec CSS********/

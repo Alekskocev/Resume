@@ -159,7 +159,7 @@ h6 {
 	letter-spacing:1.5px;
 	font-weight:500;
 	text-transform:uppercase;
-	color:#e91e63;
+	color:#A58965;
 	margin-bottom:33px;
 }
 p{
@@ -492,7 +492,7 @@ p{
 	}
 	
 		.mask {
-			background:#e91e63;
+			background:#A58965;
 			border-radius:2px;
 			display: block;
 			height: 100%;
@@ -557,7 +557,7 @@ header {
 				color:$primery_font_color;
 				background:$secondery_color;
 				.mask {
-					background:#e91e63;
+					background:#A58965;
 				}
 				
 				&:hover,&:focus,&:active {
@@ -590,7 +590,7 @@ nav.navbar.navbar-default.vertical-nav {
 		margin-bottom: 29px;
 		width: 50px;
 		span {
-			font-size: 11px;
+			font-size: px;
 			font-weight: 500;
 			left: 90px;
 			line-height: 1;
@@ -691,11 +691,12 @@ a.goto-social,a.goto-social:hover {
 			letter-spacing:.5px;
 			text-transform:uppercase;
 			margin-top: 36px;
+			text-align: center;
 		}
 	}
 	.icon {
 		color:#6f6f71;
-		font-size:60px;
+		font-size: 60px;
 		display:inline-block;
 		perspective: 1000px;
 		@include transition(all 0.4s ease 0s);
@@ -732,7 +733,7 @@ a.goto-social,a.goto-social:hover {
 				}
 		}
 		span { 
-				background-color: #e91e63;
+				background-color: #A58965;
 				height: 3px;
 				width: 0px;
 				display: block;
@@ -740,7 +741,7 @@ a.goto-social,a.goto-social:hover {
 				position:relative;
 				overflow:visible!important;
 				&:after {
-					border: 3px solid #e91e63;
+					border: 3px solid #A58965;
 					border-radius: 50%;
 					content: "";
 					height: 15px;
@@ -789,7 +790,7 @@ a.goto-social,a.goto-social:hover {
 			letter-spacing: 0.5px;
 			text-transform: uppercase;
 			font-weight: 500;
-			background: #fff none repeat scroll 0 0;
+			background: black, none repeat scroll 0 0;
 			bottom: 0;
 			color: black;
 			height: 65px;
@@ -953,7 +954,7 @@ a.goto-social,a.goto-social:hover {
 		&.timeline-active {
 			.timeline-st {
 				&:after {
-					border: 3px solid #e91e63;
+					border: 3px solid #A58965;
 				}
 			}
 		}
@@ -1077,7 +1078,7 @@ a.goto-social,a.goto-social:hover {
         color:#fff !important;
 	}
 		.mask {
-			background-color:#e91e63;
+			background-color:#A58965;
 		}
 	}
 	.email-direct {
@@ -1095,7 +1096,7 @@ a.goto-social,a.goto-social:hover {
     background: none;
 }
 .bg-success{
-    color: #e91e63;
+    color: #A58965;
 }	
 
 }
@@ -1163,7 +1164,7 @@ footer {
 			float:left;
 		}
 		.available-pointer {
-			background: #e91e63 none repeat scroll 0 0;
+			background: #A58965 none repeat scroll 0 0;
 			position: relative;
 			display: inline-block;
 			float:left;
@@ -1182,7 +1183,7 @@ footer {
 			animation-iteration-count: infinite;
 			content: ' ';
 			&:before{
-				background-color: #e91e63;
+				background-color: #A58965;
 				content: ' ';
 				position: absolute;
 				top: -8px;
@@ -1349,14 +1350,14 @@ footer {
 				}
 				&:hover {
 					span {
-						color: #e91e63;
+						color: #A58965;
 					}	
 				}
 			}
 			&.active {
 				a{
 					span {
-						color:#e91e63;
+						color:#A58965;
 					}
 				}
 			}
@@ -1448,7 +1449,7 @@ footer {
 				color:$primery_font_color;
 				background:#fff;
 				.mask {
-					background:#e91e63;
+					background:#A58965;
 				}
 				&:hover {
 					color:$secondery_color;
