@@ -170,6 +170,15 @@ var penelope = function() {
 			},
 			1600: {
 				items: 7
+			},
+			1600: {
+				items: 8
+			},
+			1600: {
+				items: 9
+			},
+			1600: {
+				items: 10
 			}
 		}
 	});
